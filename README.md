@@ -8,7 +8,7 @@ Aqui você encontrará meus arquivos de estudo, testes de estrutura, links, tags
 ## Dois Fonts que foram feitos
 <img src="https://github.com/GabrielScrin/Primeiro-Codigo-do-DEVClub/blob/main/desafiocss.html/FireShot%20Capture%20085%20-%20Projeto%201%20responsivo%20branch%20Abacate%20-%20%5B127.0.0.1%5D.png?raw=true">
 
-<img src="
+<img src="https://github.com/GabrielScrin/Primeiro-Codigo-do-DEVClub/blob/main/DESAFIO2.html/FireShot%20Capture%20086%20-%20DESAFIO%2022%20-%20%5B127.0.0.1%5D.png?raw=true">
 
 ## 📂 Conteúdo do Repositório  
 - `DESAFIO2.html` – segundo desafio em HTML/CSS.  
