@@ -5,6 +5,11 @@ Bem-vindo ao meu repositório de aprendizado, onde registro as primeiras linhas 
 Este projeto reúne exercícios, desafios e experimentos iniciais com HTML e CSS — feitos durante o programa do DevClub — que marcam o início da minha transição para a carreira de desenvolvedor web.  
 Aqui você encontrará meus arquivos de estudo, testes de estrutura, links, tags e desafios, organizados para que eu possa evoluir e mostrar o progresso.
 
+## Dois Fonts que foram feitos
+<img src="https://github.com/GabrielScrin/Primeiro-Codigo-do-DEVClub/blob/main/desafiocss.html/FireShot%20Capture%20085%20-%20Projeto%201%20responsivo%20branch%20Abacate%20-%20%5B127.0.0.1%5D.png?raw=true">
+
+<img src="
+
 ## 📂 Conteúdo do Repositório  
 - `DESAFIO2.html` – segundo desafio em HTML/CSS.  
 - `desafiocss.html` – exercício focado em CSS.  
